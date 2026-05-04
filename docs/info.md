@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This is a simple RGB_Mixer inpired by the same design of the Z2A course. The main difference is that the inputs are controlled via push buttons. 
 
 ## How to test
 
-Explain how to use your project
+Just connect push buttons to inc,  dec and led inputs, then connect an RGB LED to the PWM0, PWM1 and PWM2 outputs.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Just push buttons and RGB LED.
